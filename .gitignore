@@ -1,0 +1,16 @@
+# Obsidian: per-device UI state that changes whenever tabs open or close
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Nested vault config left over from opening a subfolder as its own vault
+**/.obsidian/
+!/.obsidian/
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# Personal study roadmap
+00-roadmap/
